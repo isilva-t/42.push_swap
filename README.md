@@ -1,6 +1,6 @@
 # Push_swap
 
-![Hanoi](https://raw.githubusercontent.com/isilva-t/42.push_swap/main/docs/pushswap.jpg)
+![Hanoi](https://raw.githubusercontent.com/isilva-t/42.push_swap/main/docs/push_swap.jpg)
 
 ## About
 A sorting algorithm project that uses two stacks and a limited set of operations to sort integers with minimal moves.
